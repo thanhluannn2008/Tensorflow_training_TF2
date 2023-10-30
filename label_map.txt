@@ -1,1 +1,1 @@
-item {id:1,name: '7up'}
+item {id:1,name:'sevenup'}
