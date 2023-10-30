@@ -1,10 +1,2 @@
 item {id:1,name:'redbull'}
-item {id:2,name:'aqua'}
-item {id:3,name:'sting'}
-item {id:4,name:'coca'}
-item {id:5,name:'7up'}
-item {id:6,name:'pepsi'}
-item {id:7,name:'heineiken'}
-item {id:8,name:'monster'}
-item {id:9,name:'mirinda'}
-item {id:10,name:'strongbow'}
+item {id:2,name:'monster'}
