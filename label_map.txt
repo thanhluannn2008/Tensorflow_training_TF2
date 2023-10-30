@@ -1,49 +1,49 @@
 item {
-    id: 1
+    id: 1,
     name: '7up'
 }
 
 item {
-    id: 2
+    id: 2,
     name: 'redbull'
 }
 
 item {
-    id: 3
+    id: 3,
     name: 'monster'
 }
 
 item {
-    id: 4
+    id: 4,
     name: 'strongbow'
 }
 
 item {
-    id: 5
+    id: 5,
     name: 'aqua'
 }
 
 item {
-    id: 6
+    id: 6,
     name: 'mirinda'
 }
 
 item {
-    id: 7
+    id: 7,
     name: 'coca'
 }
 
 item {
-    id: 8
+    id: 8,
     name: 'pepsi'
 }
 
 item {
-    id: 9
+    id: 9,
     name: 'heineiken'
 }
 
 item {
-    id: 10
+    id: 10,
     name: 'sting'
 }
