@@ -61,7 +61,15 @@ def create_tf_example(group, path):
     width, height = image.size
 
     filename = group.filename.encode('utf8')
-    image_format = b'jpg'
+    # image_format = b'jpg'
+        # Xác định định dạng của hình ảnh
+    image_format = None
+    if group.filename.endswith('.jpg'):
+        image_format = b'jpg'
+    elif group.filename.endswith('.png'):
+        image_format = b'png'
+    elif group.filename.endswith('.jpeg'):
+        image_format = b'jpeg'
     xmins = []
     xmaxs = []
     ymins = []
