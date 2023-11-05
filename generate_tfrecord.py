@@ -39,17 +39,7 @@ def class_text_to_int(row_label):
         'redbull': (7, 'redbull'),
         'sting': (8, 'sting'),
         'monster': (9, 'monster'),
-        'strongbow': (10, 'strongbow'),
-        'orange': (11, 'orange'),
-        'orange_juice': (12, 'orange_juice'),
-        'paprika': (13, 'paprika'),
-        'potato_chips': (14, 'potato_chips'),
-        'pringles': (15, 'pringles'),
-        'sausages': (16, 'sausages'),
-        'scrubby': (17, 'scrubby'),
-        'sponge_opl': (18, 'sponge_opl'),
-        'sprite': (19, 'sprite'),
-        'tray': (20, 'tray')}
+        'strongbow': (10, 'strongbow')}        
     return VOC_LABELS[row_label][0]
     # if row_label == 'mobile':
     #     return 1
