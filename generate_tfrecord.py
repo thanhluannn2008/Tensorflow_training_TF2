@@ -32,7 +32,7 @@ def class_text_to_int(row_label):
         'none': (0, 'Background'),
         '7up': (1, '7up'),
         'coca': (2, 'coca'),
-        'pesi': (3, 'pepsi'),
+        'pepsi': (3, 'pepsi'),
         'heineiken': (4, 'heineiken'),
         'mirinda': (5, 'mirinda'),
         'aquafina': (6, 'aquafina'),
