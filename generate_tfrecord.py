@@ -39,7 +39,7 @@ def class_text_to_int(row_label):
         'redbull': (7, 'redbull'),
         'sting': (8, 'sting'),
         'monster': (9, 'monster'),
-        'noodles': (10, 'noodles'),
+        'strongbow': (10, 'strongbow'),
         'orange': (11, 'orange'),
         'orange_juice': (12, 'orange_juice'),
         'paprika': (13, 'paprika'),
