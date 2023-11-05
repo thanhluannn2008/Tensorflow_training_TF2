@@ -35,7 +35,7 @@ def class_text_to_int(row_label):
         'pesi': (3, 'pepsi'),
         'heineiken': (4, 'heineiken'),
         'mirinda': (5, 'mirinda'),
-        'aqua': (6, 'aqua'),
+        'aquafina': (6, 'aquafina'),
         'redbull': (7, 'redbull'),
         'sting': (8, 'sting'),
         'monster': (9, 'monster'),
